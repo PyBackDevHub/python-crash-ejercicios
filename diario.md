@@ -19,5 +19,23 @@
 -actualizar cambios desde branc dev
 
 ---
-## fecha: 06/07/25
+## fecha: 07/07/25
+- creacion de capitulo2 y finalizacion
+- creacion de capitulo3 con archivos archivos .py
+- asimilacion del capitulos
+### dificultades encontradas
+- flujo github, no se cambio a la rama dev
+- poco tiempo de estudio
+### soluciones o aprendizaje
+- revision de entorno de trabajo
+- se busca empleo provicional
+- mejor entendimiento a repasar los temas
+### proximos objetivos
+- leer github pro pdf
+- escuchar podcast audio 3
+- terminar capitulo3
 
+
+---
+## 08/07/25
+- 
