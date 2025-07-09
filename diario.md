@@ -58,4 +58,19 @@
 
 ---
 ## 08/07/25
-- 
+- continuacion de capitulo3
+- inicio de ejericios en exercism web
+- escucha de podcast python bytes
+### dificultades encontradas
+- generacion creativa de resolver ejercicios con ideas avanzadas
+- poca aplicacion de pomodoro
+### soluciones o aprendizaje
+- mejorar aprendizaje de topicos avanzados
+- mejorar gestion del tiempo y descansos
+### proximos objetivos
+- terminar archivos y ejercicios capitulo3
+- creacion de capitulo4
+- continuidad del podcast y exercism
+
+---
+## 09/07/25
