@@ -74,3 +74,14 @@
 
 ---
 ## 09/07/25
+- terminacion de capitulo3
+- inicio de capitulo4
+### dificultades encontradas
+- busqueda de trabajo provisional
+- poca aplicacion de pomodoro
+### soluciones o aprendizaje
+- mejorar aprendizaje de topicos avanzados
+- mejorar gestion del tiempo y descansos
+### proximos objetivos
+- creacion archivos y ejercicios capitulo4
+- continuidad del podcast y exercism
