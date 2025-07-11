@@ -85,3 +85,24 @@
 ### proximos objetivos
 - creacion archivos y ejercicios capitulo4
 - continuidad del podcast y exercism
+
+---
+
+## 10/07/25
+- modificacion de plan de estudios a backend generalista con cambiao a fintech
+- creacion de ejercicios de capitulo4
+- python para niños version gratuita trial
+- creacion de cuentas codewars y hackerank, del segundo se avanzo un poco
+- python bytes podcasts
+### dificultades encontradas
+- busqueda de trabajo provisional
+- poca aplicacion de pomodoro
+### soluciones o aprendizaje
+- mejorar aprendizaje de topicos avanzados
+- mejorar gestion del tiempo y descansos
+### proximos objetivos
+- creacion archivos y ejercicios capitulo4
+- continuacion hackerrank
+- terminar capitulo4
+- podcats bytes
+- typing key
