@@ -106,3 +106,18 @@
 - terminar capitulo4
 - podcats bytes
 - typing key
+## 11/07/25
+- terminacion del capitulo4
+- adquisicion sobre el de posible trabajo 
+### dificultades encontradas
+- busqueda de trabajo provisional
+- poca aplicacion de pomodoro
+### soluciones o aprendizaje
+- mejorar aprendizaje de topicos avanzados
+- mejorar gestion del tiempo y descansos
+- poner mas enfoque
+### proximos objetivos
+- continuacion hackerrank
+- empezar capitulo5
+- podcats bytes
+- typing key
