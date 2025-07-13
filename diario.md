@@ -106,6 +106,7 @@
 - terminar capitulo4
 - podcats bytes
 - typing key
+---
 ## 11/07/25
 - terminacion del capitulo4
 - adquisicion sobre el de posible trabajo 
@@ -119,5 +120,20 @@
 ### proximos objetivos
 - continuacion hackerrank
 - empezar capitulo5
+- podcats bytes
+- typing key
+---
+## 12/07/25
+- se empieza el capitulo5
+- se investiga sobre un llc,sas
+### dificultades encontradas
+- poco tiempo disponible
+### soluciones o aprendizaje
+- mejorar aprendizaje de topicos avanzados
+- mejorar gestion del tiempo y descansos
+- poner mas enfoque
+### proximos objetivos
+- continuacion hackerrank y exercism
+- terminar capitulo5
 - podcats bytes
 - typing key
