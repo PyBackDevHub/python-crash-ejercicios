@@ -137,3 +137,30 @@
 - terminar capitulo5
 - podcats bytes
 - typing key
+---
+## 13/07/25
+- se toma un descanso de la semana
+### dificultades encontradas
+- ninguna
+### soluciones o aprendizaje
+- hacer merge desde la rama principal para actualizar todos los cambios de la rama dev
+### proximos objetivos
+- continuacion hackerrank y exercism
+- terminar capitulo5
+- podcats bytes
+- typing key
+---
+## 14/07/25
+- continuar capitulo5
+### dificultades encontradas
+- poca disposicion
+### soluciones o aprendizaje
+- reforzando conocimientos
+### proximos objetivos
+- continuacion hackerrank y exercism
+- podcats bytes
+- typing key
+- terminar capitulo5
+---
+## 15/07/25
+- terminacion capitulo5
