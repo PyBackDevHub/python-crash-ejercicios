@@ -164,3 +164,17 @@
 ---
 ## 15/07/25
 - terminacion capitulo5
+- creacion archivos y ejercicios capitulo6
+### dificultades encontradas
+- poca disposicion
+### soluciones o aprendizaje
+- reforzando conocimientos
+- mejor entendimiento de listas de comprension y de codigo
+### proximos objetivos
+- continuacion hackerrank y exercism
+- podcats bytes
+- typing key
+- terminar capitulo6
+---
+## 16/07/25
+- 
