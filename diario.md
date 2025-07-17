@@ -177,4 +177,13 @@
 - terminar capitulo6
 ---
 ## 16/07/25
-- 
+- continuacion capitulo6
+### dificultades encontradas
+- poca disposicion
+### soluciones o aprendizaje
+- reforzando conocimientos
+- mejor entendimiento de diccionarios y de unpack para mostrar los valores llave valor
+### proximos objetivos
+- continuacion hackerrank y exercism
+- podcats bytes
+- terminar capitulo6
