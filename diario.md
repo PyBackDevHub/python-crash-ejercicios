@@ -187,3 +187,17 @@
 - continuacion hackerrank y exercism
 - podcats bytes
 - terminar capitulo6
+---
+## 16/07/25
+- continuacion capitulo6
+- curso de base de datos, todo code
+### dificultades encontradas
+- poca disposicion
+### soluciones o aprendizaje
+- reforzando conocimientos
+- como instalar un servidor local, resolucion del navegador
+- uso de xampp, creacion de ejemplo de base de datos, 
+### proximos objetivos
+- continuacion hackerrank y exercism
+- podcats bytes
+- terminar capitulo6
