@@ -201,3 +201,29 @@
 - continuacion hackerrank y exercism
 - podcats bytes
 - terminar capitulo6
+---
+## 19/07/25
+- ajuste y  modificacion de website, listo para implementar whatsapp api para contacto
+- curso de base de datos, todo code
+### dificultades encontradas
+- poca disposicion
+- actualizacion de cv y projectos clave
+### soluciones o aprendizaje
+- reforzando conocimientos
+- desarrollo frontend
+### proximos objetivos
+- terminar capitulo6
+---
+## 22/07/25
+- ajusta conocimientos para saber que aprender
+- curso de base de datos, todo code
+### dificultades encontradas
+- poca disposicion
+### soluciones o aprendizaje
+- reforzando conocimientos
+### proximos objetivos
+- terminar capitulo6
+- ajuste de plan
+- al finalizar python crash course libro, empezar automate the boring stuff libro
+---
+## 23/07/25
