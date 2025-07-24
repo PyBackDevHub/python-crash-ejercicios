@@ -227,3 +227,23 @@
 - al finalizar python crash course libro, empezar automate the boring stuff libro
 ---
 ## 23/07/25
+- creacion archivos de capitulo7
+- gitlearning flujo
+- ejercicios hackerrank
+### dificultades encontradas
+- mayor enfoque
+### soluciones o aprendizaje
+- reforzando conocimientos
+- como usar la funcion .join() y diferencias con el ciclo for
+- mejor comprension de listas diccionarios y sintaxis
+- mejor entendimiento de github
+### proximos objetivos
+- continuar con capitulo7
+- mejora de git hub
+- explicar conceptos de manera verbal
+- continuar con curso de base de datos, todo code
+- lectura tecnica en ingles
+- podcasts
+---
+## 24/07/25
+-
