@@ -246,4 +246,24 @@
 - podcasts
 ---
 ## 24/07/25
--
+- aplicacion de trabajos 
+- curso youtube base de datos
+- explicacion breve de ciclos for,while, listas,tuplas, diccionarios, fuciones, opp
+- curos cisco academy
+- actualizacion de repo github
+- creacion de prototipo web
+### dificultades encontradas
+- pomodoros
+### soluciones o aprendizaje
+- reforzando conocimientos
+- como a crear tablas, ingresar, filas y columnas, creacion de PK y FK, inner join explicito
+- mejor comprension bucle for y anidacion
+- mejor entendimiento de github
+### proximos objetivos
+- inner join implicito
+- cisco courso
+- terminar capitulo7
+- explicar verbalmente oop
+- leer como resolver problemas libro
+---
+## 25/07/25
