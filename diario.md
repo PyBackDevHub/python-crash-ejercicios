@@ -266,4 +266,16 @@
 - explicar verbalmente oop
 - leer como resolver problemas libro
 ---
-## 25/07/25
+## 28/07/25
+- terminacion de capitulo7
+- inicio capitulo8
+- ejercicio de sqlbolt
+### dificultades encontradas
+- pomodoros
+### soluciones o aprendizaje
+- mejor entendimiento de bucle while y sql
+### proximos objetivos
+- continuacion capitulo8
+- continuar con curso ciscp
+- continuar con sqlbolt
+- leer fasapit
