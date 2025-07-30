@@ -279,3 +279,18 @@
 - continuar con curso ciscp
 - continuar con sqlbolt
 - leer fasapit
+## 28/07/25
+- inicio capitulo8
+- cisco curso continuacion
+- ajuste de portafolio web
+- ajuste de cv
+### dificultades encontradas
+- pomodoros
+- aplicacion de empleos
+### soluciones o aprendizaje
+- refuerzo entendimiento de bucle while en curso cisco
+### proximos objetivos
+- continuacion capitulo8
+- continuar con curso ciscp
+- continuar con sqlbolt
+- explicar conceptos python
